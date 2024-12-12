@@ -1,4 +1,4 @@
-#![samurai](https://github.com/user-attachments/assets/dd50c216-d265-44d9-9ba4-01239ee17f7a)
+![samurai](https://github.com/user-attachments/assets/dd50c216-d265-44d9-9ba4-01239ee17f7a)
 
 # 👋 Hi there! I’m Zhi Xuen
 # I am Year 2 computer science student studying in Asia Pacific University
