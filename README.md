@@ -1,8 +1,10 @@
-# ![samurai](https://github.com/user-attachments/assets/28a65b83-b001-4f2f-8bf3-5ca6e9c4fa36)
+#![samurai](https://github.com/user-attachments/assets/dd50c216-d265-44d9-9ba4-01239ee17f7a)
+
 # 👋 Hi there! I’m Zhi Xuen
 # I am Year 2 computer science student studying in Asia Pacific University
 
 🚀 Cybersecurity Student | Networking Geek | Tech Enthusiast
+
 
 ---
 
